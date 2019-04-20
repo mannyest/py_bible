@@ -7,9 +7,9 @@ dice_game.py : Simple dice game, user input and conditionals
 
 tictactoe.py : A basic tic tac toe game with functions, loops and user input
 
-back_account.py : Classes
+back_account.py : Creating banking instruments like Checking/Savings using Classes
 
-making_coins.py : Exploring classes and objects 
+making_coins.py : Creating a coins with inherited attributes using classes and objects 
 
 
 
