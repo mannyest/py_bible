@@ -1,5 +1,5 @@
 # py_bible
-Python Bible Course on Udemy w/ Ziyad
+Python Bible Course on Udemy w/ Ziyad January - April 2018
 
 https://www.udemy.com/the-python-bible/
 
